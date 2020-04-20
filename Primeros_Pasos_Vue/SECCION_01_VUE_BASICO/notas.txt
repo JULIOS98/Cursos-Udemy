@@ -1,0 +1,9 @@
+
+****METODOS Y METODOS COMPUTADOS
+-La diferencia de los --computed methods a los --methods es que los --computed methods guardan cache
+
+****EVENTOS
+- v-on:click o @click
+
+***WATCH OBSERVADORES
+-tambien funcionan como triggers o disparadores
